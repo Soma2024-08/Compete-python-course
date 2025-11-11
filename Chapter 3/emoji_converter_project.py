@@ -1,0 +1,26 @@
+# convert text based emotions into emojis (No if, no loop)
+
+msg = input("Enter your message: ")
+
+# to print emojis simply press Windows + . (dot) key together or Windows + ; (semicolon) key together
+
+msg=msg.replace(":)","😊")
+msg=msg.replace(":(","😞")
+msg=msg.replace(";)", "😉")
+msg=msg.replace(":D","😃")
+msg=msg.replace(":'(","😢")
+msg=msg.replace(":P","😛")
+msg=msg.replace(":/","😕")
+msg=msg.replace(":O","😮")
+msg=msg.replace("<3","❤️")
+msg=msg.replace(":|","😐")
+msg=msg.replace("XD","😆")
+msg=msg.replace(">:(","😠")
+msg=msg.replace("B)","😎")
+msg=msg.replace(":*","😘")
+msg=msg.replace("O:)","😇")
+msg=msg.replace("-_-","😑")
+msg=msg.replace("^_^","😊")
+msg=msg.replace(">:O","😡")
+msg=msg.replace(":'D","😂")
+print("Converted message is:", msg)
