@@ -33,12 +33,12 @@ Upon running, the program will display a menu:
 
 ..............Welcome to Expense Tracker................
 
--==== MENU ====
+==== MENU ====
 
--1.  Add Expense
--2.  view all Expenses
--3.  view total Expense
--4.  Exit
+1.  Add Expense
+2.  view all Expenses
+3.  view total Expense
+4.  Exit
 
 ```bash
 Please enter your choice :
