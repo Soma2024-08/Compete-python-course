@@ -38,8 +38,11 @@ Upon running, the program will display a menu:
 2.  view all Expenses
 3.  view total Expense
 4.  Exit
+
+```bash
 Please enter your choice :
 1.  Enter `1` to input a new expense.
 2.  Enter `2` to see a list of all expenses recorded so far.
 3.  Enter `3` to check your total spending.
 4.  Enter `4` to exit the application
+```
