@@ -32,12 +32,13 @@ No user-defined functions, classes, or file handling are used.
 Upon running, the program will display a menu:
 
 ..............Welcome to Expense Tracker................
-==== MENU ====
 
-1.  Add Expense
-2.  view all Expenses
-3.  view total Expense
-4.  Exit
+-==== MENU ====
+
+-1.  Add Expense
+-2.  view all Expenses
+-3.  view total Expense
+-4.  Exit
 
 ```bash
 Please enter your choice :
